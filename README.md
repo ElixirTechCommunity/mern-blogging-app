@@ -1,4 +1,9 @@
-A blog App
-It is a blogging app where you can create a account and login using your name and password with authentication. Your can add your title and start sharing your stories, and experiences.
+# This is a MERN stack blogging application.
 
-ISSUE: Publish button does not work.
+# Build Instructions
+1. Clone the repository
+2. cd into the repository
+3. Run `npm install` to install all the dependencies
+4. Run `npm start` to start the application
+5. Open `http://localhost:3000` in your browser
+```
